@@ -1,0 +1,43 @@
+.form-fields {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.field {
+    width: 90%;
+    max-width: 400px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0.1, 0.1, 0.1, 0.8);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.in {
+    width: 78%;
+    margin-left: 10%;
+}
+
+.la {
+    margin-left: 10%;
+    color: #001f3f;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.bu {
+    width: 80%;
+    margin-left: 10%;
+    background-color: #3b71ca;
+    color: white;
+    height: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10%;
+}

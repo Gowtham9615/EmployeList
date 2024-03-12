@@ -1,0 +1,31 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    padding: 20px;
+}
+  
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 9px;
+}
+  
+.grid-item {
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+  
+.label {
+    font-weight: bold;
+}
+.value {
+    margin-top: 5px;
+}
+  
+.list {  
+    text-align: center;
+    color: #001f3f;
+    margin-bottom: 20px;
+}
+  

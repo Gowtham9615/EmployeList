@@ -1,0 +1,24 @@
+{
+    "employe": [
+      {
+        "Id": "1",
+        "Name": "Gowtham",
+        "Age":23,
+        "Email": "Gowtham@example.com",
+        
+        "Phone":"9182452792",
+        "Qualification":"B.tech",
+        "Experience":"Fresher"
+      },
+      {
+        "Id": "2",
+        "Name": "Pavan",
+        "Age":28,
+        "Email": "pavan@example.com",
+        "Phone":"8791687812",
+        "Qualification":"MBA",
+        "Experience":"2"
+      }
+    ]
+  }
+  
